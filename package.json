@@ -1,6 +1,6 @@
 {
   "name": "start-webpack-conf",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Automatic generation of webpack configuration files",
   "main": "index.js",
   "author": "luoede<luoyide9607@gmail.com>",

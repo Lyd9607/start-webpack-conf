@@ -32,13 +32,13 @@ function checkOptions () {
 }
 
 function msgCallback (err) {
-	if (err) {
-		console.log(chalk.red('Files generation failed!'))
-		console.log(chalk.red(err))
-		process.exitCode = 1
-	} else {
+  if (err) {
+    console.log(chalk.red('Files generation failed!'))
+    console.log(chalk.red(err))
+    process.exitCode = 1
+  } else {
     console.log(chalk.green('Files generation success!'))
-	}
+  }
 }
 
 checkOptions()
