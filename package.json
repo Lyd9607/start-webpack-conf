@@ -8,8 +8,8 @@
   "repository": "https://github.com/Lyd9607/start-webpack-conf",
   "private": false,
   "bin": {
-    "wpk": "./bin/wpk",
-    "wpk-init": "./bin/wpk-init"
+    "wpk": "./bin/wpk.js",
+    "wpk-init": "./bin/wpk-init.js"
   },
   "files": [
     "lib",
