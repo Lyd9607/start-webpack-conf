@@ -18,7 +18,7 @@ program
 
 program.on('--help', function() {
   console.log('')
-  console.log('  Examples:    wpk init -D webpack')
+  console.log('  Examples:    wpk init -D mydir')
   console.log('')
   console.log('')
 })
