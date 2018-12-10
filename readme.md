@@ -13,7 +13,7 @@ $ npm install start-webpack-conf -g
 ## Usage
 
 ```
-$ wpk init -D mydir
+$ wpk init --v4 -D mydir
 ```
 
 ## Options
